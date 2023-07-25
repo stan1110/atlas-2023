@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "LinkTijger COCO",
+	"description": "This bird named COCO is owned by a Dutch youtuber/streamer known as LinkTijger. (Yes he is still alive)",
+	"links": {
+		"subreddit": [
+			"placeNL"
+		]
+	},
+	"path": {
+		"": [
+			[
+				-367,
+				-521
+			],
+			[
+				-347,
+				-521
+			],
+			[
+				-347,
+				-541
+			],
+			[
+				-367,
+				-542
+			]
+		]
+	},
+	"center": {
+		"": [
+			-357,
+			-531
+		]
+	}
+}
